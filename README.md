@@ -3,7 +3,7 @@
   <img alt="Awesome Agent Memory: Memory layers, RAG, vector search, document parsing, second brains and research agents, so agents stop forgetting." src=".github/assets/header-hell.svg" width="100%">
 </picture>
 
-<p align="center"><a href="https://awesome.re"><img alt="Awesome" src="https://awesome.re/badge-flat2.svg"></a> <img alt="289 repos" src="https://img.shields.io/badge/repos-289-1B8DBE?style=flat-square"> <img alt="6 categories" src="https://img.shields.io/badge/categories-6-1B8DBE?style=flat-square"> <img alt="2.6M stars combined" src="https://img.shields.io/badge/stars_combined-2.6M-1B8DBE?style=flat-square"> <img alt="updated 2026-10-29" src="https://img.shields.io/badge/updated-2026--10--29-95969A?style=flat-square"> <img alt="license CC0" src="https://img.shields.io/badge/license-CC0-95969A?style=flat-square"></p>
+<p align="center"><a href="https://awesome.re"><img alt="Awesome" src="https://awesome.re/badge-flat2.svg"></a> <img alt="289 repos" src="https://img.shields.io/badge/repos-290-1B8DBE?style=flat-square"> <img alt="6 categories" src="https://img.shields.io/badge/categories-6-1B8DBE?style=flat-square"> <img alt="2.6M stars combined" src="https://img.shields.io/badge/stars_combined-2.6M-1B8DBE?style=flat-square"> <img alt="updated 2026-10-29" src="https://img.shields.io/badge/updated-2026--10--29-95969A?style=flat-square"> <img alt="license CC0" src="https://img.shields.io/badge/license-CC0-95969A?style=flat-square"></p>
 
 <h3 align="center">Your AI forgets you every morning. These repos fix that.</h3>
 
@@ -49,7 +49,7 @@ No time for 289 repos? Start with these 4, one per role. Add the rest when you f
 
 ## Contents
 
-- [Agent memory](#agent-memory) · 48<br><sub>[Memory layers and services](#memory-layers-and-services) · [Memory for coding agents](#memory-for-coding-agents) · [Context layers and stores](#context-layers-and-stores)</sub>
+- [Agent memory](#agent-memory) · 49<br><sub>[Memory layers and services](#memory-layers-and-services) · [Memory for coding agents](#memory-for-coding-agents) · [Context layers and stores](#context-layers-and-stores)</sub>
 - [RAG](#rag) · 68<br><sub>[RAG engines and platforms](#rag-engines-and-platforms) · [Graph and reasoning RAG](#graph-and-reasoning-rag) · [Chat with your documents](#chat-with-your-documents) · [RAG frameworks, research and lists](#rag-frameworks-research-and-lists)</sub>
 - [Vector search and embeddings](#vector-search-and-embeddings) · 63<br><sub>[Vector databases](#vector-databases) · [Embedding models and servers](#embedding-models-and-servers) · [Rerankers and late interaction](#rerankers-and-late-interaction) · [Semantic and local search](#semantic-and-local-search)</sub>
 - [Documents and capture](#documents-and-capture) · 26<br><sub>[Document parsers](#document-parsers) · [OCR and layout models](#ocr-and-layout-models) · [Clipping, capture and screen memory](#clipping-capture-and-screen-memory)</sub>
@@ -85,6 +85,7 @@ Memory that survives the next session.
 - **[mcp-memory](https://github.com/fellowgeek/mcp-memory)** `★ 221` · MCP server that gives AI persistent long-term memory with SQLite FTS5 search.
 - **[Sibyl-Memory](https://github.com/Sibyl-Labs/Sibyl-Memory)** `★ 175` · File-based long-term memory for AI agents, with SDK, CLI, MCP server and Hermes adapter.
 - **[AutoMemory](https://github.com/HKUDS/AutoMemory)** `★ 25` · Automatically builds the memory an agent needs.
+- **[anansi-haven](https://github.com/kburrus64-max/anansi-haven)** · Hosted Streamable HTTP MCP home base with durable agent rooms and memory, free rule-based trade postmortems, and optional Base x402 checkout.
 
 ### Memory for coding agents
 
